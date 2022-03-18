@@ -1,0 +1,64 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 8-Feb-2021, 6:09:26 PM
+    Author     : Nathan Caldwell
+*/
+
+html{
+    background: linear-gradient(to bottom, #ffffff 0%, #ff9933 100%);
+    max-width: 1000px;
+    min-height: 100vh;
+    margin: auto;
+}
+
+hr{
+    border-width: 0;
+    min-height: 4px;
+    color: orange;
+    background-color: orange;
+    clear: both;
+}
+
+header{
+    background-color: white;
+    min-height: 200px;
+}
+
+body{
+    border: 2px solid black;
+    background-color: white;
+    padding: 10px;
+}
+
+h3{
+    font-weight: bold;
+}
+
+label{
+    font-weight: bold;
+}
+
+#logo{
+    float: left;
+    max-height: 100px;
+    max-width: 100px;
+    margin: 10px;
+}
+
+#title{
+    float: left;
+}
+
+#Nav{
+    float: right;
+    margin: 10px;
+    font-weight: bold;
+}
+
+#foot{
+    float: right;
+}
